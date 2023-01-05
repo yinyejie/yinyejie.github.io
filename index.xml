@@ -73,6 +73,15 @@
     </item>
     
     <item>
+      <title>有点不舒服</title>
+      <link>http://example.com/blog/new-blog/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/blog/new-blog/</guid>
+      <description>好像阳了&amp;hellip;不过烧得不是很高，很快就降下来了，只是一直头疼，希望慢慢好起来。</description>
+    </item>
+    
+    <item>
       <title>Undated post</title>
       <link>http://example.com/blog/no-date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
