@@ -6,7 +6,7 @@
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2023 12:04:06 -0500</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>恰饭</title>
       <link>http://example.com/projects/photography/</link>
@@ -37,9 +37,18 @@
     </item>
     
     <item>
+      <title>今日追番</title>
+      <link>http://example.com/blog/coffee-ipsum/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/blog/coffee-ipsum/</guid>
+      <description> 众所周知，喜羊羊是热血搞笑动漫 </description>
+    </item>
+    
+    <item>
       <title>今天吃什么</title>
       <link>http://example.com/blog/startup-ipsum/</link>
-      <pubDate>Wed, 04 Jan 2023 12:04:06 -0500</pubDate>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.com/blog/startup-ipsum/</guid>
       <description>今天晚上吃了干锅牛蛙、蒜蓉金针菇、蒜蓉虾和红枣糕~ 美滋滋🍝 饭后吃了一个猕猴桃、一根香蕉🥝🥝🍌</description>
@@ -52,15 +61,6 @@
       
       <guid>http://example.com/blog/configuration/</guid>
       <description>元旦给自己放一天假啦！！！ 作业明天再考虑叭🏃‍♀️ 没有什么新综艺看诶&amp;hellip;意外发现《大理寺日志2》更新了，立马康康😳 不要靠近游戏，会变得不幸🙏</description>
-    </item>
-    
-    <item>
-      <title>今日追番</title>
-      <link>http://example.com/blog/coffee-ipsum/</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/blog/coffee-ipsum/</guid>
-      <description> 众所周知，喜羊羊是热血搞笑动漫 </description>
     </item>
     
     <item>
